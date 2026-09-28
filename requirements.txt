@@ -8,3 +8,6 @@ scikit-image
 hdf5storage
 jupyter
 notebook
+torch
+torchvision
+streamlit
